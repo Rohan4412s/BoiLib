@@ -77,7 +77,7 @@ namespace BoiLib_Example
                         else
                         {
                             Interlocked.Increment(ref Variables.Retries);
-                            HandleRetries(line);
+                            worker(line); 
                         }
                            
                         }
@@ -86,15 +86,12 @@ namespace BoiLib_Example
                 catch
                 {
                     Interlocked.Increment(ref Variables.Retries);
-                    HandleRetries(line);
+                   worker(line); 
                 }
             
           
         }
-        static void HandleRetries(string line)
-        {
-            worker(line); 
-        }
+
         static void Title()
         {
             while (true)
