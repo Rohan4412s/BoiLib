@@ -1,5 +1,5 @@
 # BoiLib
- Easily Create, Credential Stuffing tools with this Lib, without out much code!
+ Easily Create, Credential Stuffing tools with this Lib, without much code!
  
  # Features
  - Clean Code
