@@ -8,7 +8,7 @@
  - Never stuck in Infinite Retries!
 
 # Usages
-- [Example](https://github.com/YoBoiiiiii/BoiLib/blob/main/BoiLib_Example/Program.cs)
+- [Example](https://github.com/YoBoiiiiii/BoiLib/blob/main/Example/Program.cs)
 - [Download](https://github.com/YoBoiiiiii/BoiLib)
 
 # Used Libs
