@@ -77,6 +77,7 @@ namespace BoiLib_Example
                         else
                         {
                             Interlocked.Increment(ref Variables.Retries);
+                            Interlocked.Increment(ref Variables.Counter);
                             worker(line); 
                         }
                            
