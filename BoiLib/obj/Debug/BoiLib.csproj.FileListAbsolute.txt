@@ -1,0 +1,8 @@
+C:\Users\yoboi\source\repos\BoiLib\BoiLib\bin\Debug\BoiLib.dll
+C:\Users\yoboi\source\repos\BoiLib\BoiLib\bin\Debug\BoiLib.pdb
+C:\Users\yoboi\source\repos\BoiLib\BoiLib\bin\Debug\Leaf.xNet.dll
+C:\Users\yoboi\source\repos\BoiLib\BoiLib\obj\Debug\BoiLib.csprojAssemblyReference.cache
+C:\Users\yoboi\source\repos\BoiLib\BoiLib\obj\Debug\BoiLib.csproj.CoreCompileInputs.cache
+C:\Users\yoboi\source\repos\BoiLib\BoiLib\obj\Debug\BoiLib.csproj.CopyComplete
+C:\Users\yoboi\source\repos\BoiLib\BoiLib\obj\Debug\BoiLib.dll
+C:\Users\yoboi\source\repos\BoiLib\BoiLib\obj\Debug\BoiLib.pdb
