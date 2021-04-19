@@ -9,7 +9,7 @@
 
 # Usages
 - [Example](https://github.com/YoBoiiiiii/BoiLib/blob/main/Example/Program.cs)
-- [Download](https://github.com/YoBoiiiiii/BoiLib)
+- [Download](https://github.com/YoBoiiiiii/BoiLib/tree/main/BoiLib)
 
 # Used Libs
 - Leaf.xnet
